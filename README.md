@@ -1,2 +1,2 @@
 # CP2104_USB_to_UART
-USB to UART with CP2104
+This design is designed for data transfer between USB and UART communication protocols.

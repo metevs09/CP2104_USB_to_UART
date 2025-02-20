@@ -23,8 +23,7 @@ CP2104_USB_to_UART/
 ├── schematics/       # Circuit schematics for the converter
 ├── pcb/              # PCB design files (Gerber files, layouts, etc.)
 ├── docs/             # Documentation and assembly instructions
-├── firmware/         # (Optional) Firmware or configuration files, if applicable
-└── README.md         # This file
+
 ```
 ## Prerequisites
 

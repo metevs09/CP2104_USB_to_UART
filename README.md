@@ -1,6 +1,8 @@
 # CP2104 USB to UART Converter
 This repository contains design files, schematics, and documentation for a CP2104-based USB to UART converter. The converter leverages the Silicon Labs CP2104 chip to bridge USB communication with UART, making it ideal for interfacing microcontrollers and other serial devices with a PC.
 
+![CP2104 USB to UART p](https://github.com/user-attachments/assets/2d872941-73ff-4bc7-bb07-26e7264704b2)
+
 ## Overview
 The CP2104 USB to UART Converter is designed to provide a reliable and cost-effective solution for serial communication over USB. This project includes:
 
